@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:007648_0000_102DB7CC968DC9D8"/>
-            <pb facs="tcp:007648_0001_102DB7D0DB39C1D0"/>
+            <pb facs="unknown:007648_0000_102DB7CC968DC9D8"/>
+            <pb facs="unknown:007648_0001_102DB7D0DB39C1D0"/>
             <p>
                <hi>PENNSYLVANIA:</hi> A POEM.</p>
             <p>
@@ -121,14 +121,14 @@
                <hi>PHILADELPHIA:</hi> Printed by B. FRANKLIN, and D. HALL. MDCCLVI.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:007648_0002_102DB7D358635110"/>
+            <pb facs="unknown:007648_0002_102DB7D358635110"/>
             <head>ADVERTISEMENT.</head>
             <p>AS the following little <hi>Poem</hi> diſcovers a Degree of <hi>Judgment, Genius</hi> and <hi>Public-Spirit</hi> ſeldom to be met with in Perſons ſo young as the Author, it was thought that the Publication of it might be ſeaſonable at this Time, as well to contri<g ref="char:EOLhyphen"/>bute towards the Healing our unhappy Breaches, as to encourage the Author to Attempts of an higher Nature. The Piece has been peruſed by ſome Per<g ref="char:EOLhyphen"/>ſons of acknowledged Taſte, and is recommended to the Candor of the diſcerning Reader, who will be pleaſed to find the Author in ſeveral Places riſing by <hi>manly Imitation</hi> to the Beauties of ſome of our <hi>ableſt Maſters,</hi> whom he keeps before him.</p>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:007648_0003_102DB7D581617078"/>
+            <pb facs="unknown:007648_0003_102DB7D581617078"/>
             <head>PENNSYLVANIA.</head>
             <lg>
                <l>WHILE ruthleſs WAR ſtrides o'er th' enſanguin'd Plain,</l>
@@ -152,7 +152,7 @@
                <l>O <hi>Delaware!</hi> whoſe ſilver-winding Wave,</l>
                <l>Majeſtic rolling thro' a Length of Soil,</l>
                <l>
-                  <pb n="4" facs="tcp:007648_0004_102DB7D70304F6E8"/>
+                  <pb n="4" facs="unknown:007648_0004_102DB7D70304F6E8"/>
 Viſits the ſecret Haunts and deep Abodes</l>
                <l>Of many a King and Queen of various Hue,</l>
                <l>Whoſe artleſs Shoulders unadorn'd and plain</l>
@@ -183,7 +183,7 @@ Viſits the ſecret Haunts and deep Abodes</l>
                <l>Some inward Diſcontent and Anguiſh ſpoke.</l>
                <l>Torn from her Brow the peaceful Olive lay</l>
                <l>
-                  <pb n="5" facs="tcp:007648_0005_102D7405C19307C8"/>
+                  <pb n="5" facs="unknown:007648_0005_102D7405C19307C8"/>
 All wither'd and neglected at her Feet.</l>
                <l>Her Right Hand graſp'd the dreaded Spear of MARS,</l>
                <l>And on her Left MINERVA'S Aegis hung.</l>
@@ -214,7 +214,7 @@ All wither'd and neglected at her Feet.</l>
                <l>A Conſtitution juſt, impartial, free;</l>
                <l>And gave my Sons to know the ruling Art,</l>
                <l>
-                  <pb n="6" facs="tcp:007648_0006_102DB7DADE566F08"/>
+                  <pb n="6" facs="unknown:007648_0006_102DB7DADE566F08"/>
 To ballance fair the Legiſlative Pow'rs,</l>
                <l>And teach the <hi>Free-born</hi> Subject <hi>Freedom</hi>'s Laws?</l>
                <l>Was it for <hi>this</hi> I bade the teeming Earth</l>
@@ -247,7 +247,7 @@ To ballance fair the Legiſlative Pow'rs,</l>
                <l>In black Succeſſion paſs before my View,</l>
                <l>Whene'er I turn my Eyes to yonder Plains?</l>
                <l>
-                  <pb n="7" facs="tcp:007648_0007_102DB7DD05F442F0"/>
+                  <pb n="7" facs="unknown:007648_0007_102DB7DD05F442F0"/>
 Where in ſoft Murmurs thro' the verdant Soil</l>
                <l>MONONGAHELA rolls his gentle Tide.</l>
                <l>
@@ -280,7 +280,7 @@ Where in ſoft Murmurs thro' the verdant Soil</l>
                <l>And bleſs'd with equal Honour, Wealth and Strength.</l>
                <l>And will you then my Sons, my much-lov'd Race!</l>
                <l>
-                  <pb n="8" facs="tcp:007648_0008_102DB7DFE7493C58"/>
+                  <pb n="8" facs="unknown:007648_0008_102DB7DFE7493C58"/>
 For whom I toil'd ſo many a rolling Year,</l>
                <l>At laſt degenerate from your priſtine Worth,</l>
                <l>And level all a Mother's tow'ring Hopes?</l>
@@ -311,7 +311,7 @@ For whom I toil'd ſo many a rolling Year,</l>
                <l>Lay waſte the Labours of th' induſtrious Swain,</l>
                <l>And whelm the Country in a general Blaze;</l>
                <l>
-                  <pb n="9" facs="tcp:007648_0009_102DB7E246340EF8"/>
+                  <pb n="9" facs="unknown:007648_0009_102DB7E246340EF8"/>
 Tear from the bleeding Mother's fondling Arms</l>
                <l>The wailing Babe, and in its guiltleſs Breaſt</l>
                <l>With Hand inhuman plunge the reeking Blade;</l>
@@ -342,7 +342,7 @@ Tear from the bleeding Mother's fondling Arms</l>
                <l>While reſtleſs Party-Rage divides your Strength,</l>
                <l>And Feuds inteſtine rend your infant State.</l>
                <l>
-                  <pb n="10" facs="tcp:007648_0010_102DB7E5856F4028"/>
+                  <pb n="10" facs="unknown:007648_0010_102DB7E5856F4028"/>
 Where ſhall I find ſome generous healing Hand</l>
                <l>Of dextrous Skill, and honeſt, friendly Views,</l>
                <l>By calm, impartial Reaſon, and the Tongue</l>
@@ -375,7 +375,7 @@ Where ſhall I find ſome generous healing Hand</l>
                <l>With <hi>Britiſh</hi> Ardor in fair Freedom's Cauſe;</l>
                <l>To wake each manly Purpoſe in the Soul,</l>
                <l>
-                  <pb n="11" facs="tcp:007648_0011_102DB7E856F97840"/>
+                  <pb n="11" facs="unknown:007648_0011_102DB7E856F97840"/>
 And every generous Aim for public Weal.</l>
                <l>That ſo my growing, well-ſupported State,</l>
                <l>Spite of th' oppoſing Foe, may ſpread and riſe.</l>
